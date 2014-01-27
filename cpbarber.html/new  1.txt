@@ -3,5 +3,8 @@
 <body>
 Hello world!
 Chris Barber
+This assignent is fun!
+The class is amazing!
+Mike is a great teacher!
 </body>
 </html>
